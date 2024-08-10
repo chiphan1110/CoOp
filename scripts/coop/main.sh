@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # custom config
-DATA=/path/to/datasets
+DATA=/data/ssd_2/data
 TRAINER=CoOp
 
 DATASET=$1
